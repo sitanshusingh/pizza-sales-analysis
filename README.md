@@ -15,6 +15,7 @@ This project analyzes pizza sales data to uncover sales trends, customer prefere
 - [Dashboard](#dashboard)
 - [Recommendations](#recommendations)
 - [Conclusion](#conclusion)
+- [Project Files](#Project-Files)
 
 ---
 
