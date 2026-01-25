@@ -96,5 +96,5 @@ This project demonstrates an end-to-end data analytics workflow using SQL, Pytho
 
 ## Tools & Technologies
 - SQL (MySQL)  
-- Python (Pandas, NumPy)  
+- Python (Pandas, NumPy, Seaborn, Matplotlib)  
 - Power BI  
