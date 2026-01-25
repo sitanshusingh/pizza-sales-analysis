@@ -100,6 +100,6 @@ This project demonstrates an end-to-end data analytics workflow using SQL, Pytho
 - Power BI – Dashboards and data visualization
 
   ## Project Files
-- 📂 SQL Analysis: [sql_analysis](./sql_analysis)
+- 📂 SQL Analysis: [sql_analysis](https://github.com/sitanshusingh/pizza-sales-analysis/blob/main/sql_analysis/Pizza%20Sales%20Data%20Analysis.sql)
 - 📂 Python Analysis: [python_analysis](./python_analysis)
 - 📂 Power BI Dashboard: [power_bi](./power_bi) 
