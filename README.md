@@ -1,5 +1,4 @@
 
-
 # 🍕 Pizza-Sales-Analysis
 Minor Data Analytics Project
 
@@ -95,6 +94,11 @@ This project demonstrates an end-to-end data analytics workflow using SQL, Pytho
 ---
 
 ## Tools & Technologies
-- SQL (MySQL)  
-- Python (Pandas, NumPy, Seaborn, Matplotlib)  
-- Power BI  
+- SQL (MySQL) – Data storage and analytical queries  
+- Python (Pandas, NumPy) – Data analysis and reporting  
+- Power BI – Dashboards and data visualization
+
+  ## Project Files
+- 📂 SQL Analysis: [sql_analysis](./sql_analysis)
+- 📂 Python Analysis: [python_analysis](./python_analysis)
+- 📂 Power BI Dashboard: [power_bi](./power_bi) 
