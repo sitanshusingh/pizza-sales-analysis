@@ -77,7 +77,7 @@ The dashboard highlights:
 - Hourly and daily sales trends  
 - Size-wise and category-wise distribution  
 ## Dashboard-Img
-![IMG](https://github.com/user-attachments/assets/5c599ee2-4c12-4292-8722-71b4539e9dc5)
+![IMG]()
 
 ---
 
